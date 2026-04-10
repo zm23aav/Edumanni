@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: keep clean font */
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
